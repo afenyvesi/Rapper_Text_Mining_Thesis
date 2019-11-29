@@ -1,0 +1,57 @@
+Fenyvesi András
+Mi fán terem a sikeres rapper? / What makes a succesful rapper?
+Szakdolgozat / Thesis
+
+155 amerikai rapper szókincsének és sikerességének elemzése szövegbányászati és ökonometriai módszerekkel.
+Analyzing the success and vocabulary of 155 american rappers with Text Mining and Econometrics.
+
+Fájlok / Files:
+
+Rapper_Thesis_SCRAPE_Fenyvesi_András.ipynb
+A dalszövegek összegyűjtése és elmentése.
+Scraping the songs and saving them.
+
+Rapper_Thesis_PREPROCESSING_Fenyvesi_András.ipynb
+A szövegek megtisztítása, a korpusz kialakítása, DTM-be rendezése.
+Text cleaning, creating the corpus and the DTM.
+
+Rapper_Thesis_ANALYSIS_Fenyvesi_András.ipynb
+A változók kialakítása, korpusz szövegbányászati elemzése.
+Feature engineering, analyzing the corpus with Text Mining.
+
+Rapper_Thesis_ECON_MODEL.R
+Ökonomteriai modellezés.
+Econometric models.
+
+Rapper_Analysis_Thesis_Text_Mining_Graphs.pbix
+A szövegbányászati eremények vizualizálása.
+Visualizing Text Mining findings.
+
+NRC-emotion-lexicon-wordlevel-aphabetized-v0.92.txt
+A használt érzelem lexikon.
+The used emotion lexicon.
+Forrás / Source: https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
+
+Regression_Results.pdf
+A regressziós eredmények táblázatai.
+Tables of regression results.
+
+billboard_lists.csv
+A Billboard R&B / Hip-hop év végi toplista 2006-2018 között.
+Billboard R&B / Hip-hop year end chart between 2006-2018.
+
+eminem.json
+Példa az előadók adattárolási formájára.
+Example of data storing method for artists.
+
+modeldf_FINAL.csv
+Az ökonometriai modellezéshez előállított mutatók előadónként.
+The created features for econometric modeling for each artist.
+
+year_dataframe_FINAL.csv
+A fenti mutatók évenkénti összesítésben.
+The above mentioned features aggregated for years.
+
+Budapest, 2019.11.29.
+Fenyvesi András
+
